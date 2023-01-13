@@ -17,4 +17,4 @@ Yes. It's just a joke app, literally nothing else on it but a fake settings page
 
 ### Original Video:
 
-https://www.youtube.com/shorts/9p0pdiTOlzw (vine scam ad)
+https://www.youtube.com/shorts/9p0pdiTOlzw (vine ad scam)
