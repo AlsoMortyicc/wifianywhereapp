@@ -1,5 +1,5 @@
 ---
-title: WifiAnywhere14
+title: WifiAnywhere/WifiSteal
 ---
 
 An attempt at recreating WifiAnywhere from the "get wifi anywhere you go" ad.
